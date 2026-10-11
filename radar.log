@@ -1,0 +1,51 @@
+Tech Radar rodando | IA=gemini | publicação=manual | a cada 5 min | nota mínima 4.0
+[ok] Telegram funcionando (mensagem de início enviada)
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 467 novos
+[ciclo] 467 itens de fontes novas memorizados, sem rascunho
+[ciclo] nenhuma notícia atingiu a nota mínima neste ciclo
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 2 novos
+   melhor nota 2.5 (mínima 4.0): [TechCrunch] Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start
+[ciclo] nenhuma notícia atingiu a nota mínima neste ciclo
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 2 novos
+   melhor nota 5.5 (mínima 4.0): [Canaltech] Como baixar e instalar o Windows 11 26H2 no seu PC
+   melhor nota 3.0 (mínima 4.0): [XDA] Claude Code read my entire Home Assistant config, and the mistakes it 
+[ciclo] rascunho #5 enviado: Como baixar e instalar o Windows 11 26H2 no seu PC
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 1 novos
+[ciclo] nenhuma notícia atingiu a nota mínima neste ciclo
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 0 novos
+[ciclo] nenhuma notícia atingiu a nota mínima neste ciclo
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 2 novos
+   melhor nota 10.5 (mínima 4.0): [TechCrunch] Will the HomeView be Apple’s first smart home success?
+   melhor nota 2.0 (mínima 4.0): [Slashdot] Gas Cars Fall Below 50% of Global New Car Sales for the First Time
+[ciclo] rascunho #6 enviado: Will the HomeView be Apple’s first smart home success?
+[ciclo] X aberto no navegador com o rascunho #6 (é só clicar em Postar)
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 2 novos
+   melhor nota 6.0 (mínima 4.0): [Techmeme] Sources: Amazon is in talks to buy AI startup Decart in a deal that co
+   melhor nota 1.6 (mínima 4.0): [Hacker News] Andrej Karpathy breaks down the capability gap
+[aviso] Gemini (gemini-flash-latest) sobrecarregado (503); tentando de novo...
+[aviso] Gemini (gemini-flash-latest) sobrecarregado (503); tentando de novo...
+[ciclo] rascunho #7 enviado: Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)
+Tech Radar rodando | IA=gemini | publicação=manual | a cada 5 min | nota mínima 4.0
+[ok] Telegram funcionando (mensagem de início enviada)
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 3 novos
+   melhor nota 4.6 (mínima 4.0): [Hacker News] A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired 
+   melhor nota 2.0 (mínima 4.0): [Lobsters] Reviewing code in the agent era
+[aviso] Gemini (gemini-flash-latest) sobrecarregado (503); tentando de novo...
+[aviso] Gemini (gemini-flash-latest) sobrecarregado (503); tentando de novo...
+[aviso] Gemini (gemini-3.8-flash) sobrecarregado (503); tentando de novo...
+[aviso] Gemini (gemini-3.8-flash) sobrecarregado (503); tentando de novo...
+[aviso] Gemini (gemini-3.7-flash) sobrecarregado (503); tentando de novo...
+[ciclo] rascunho #8 enviado: A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her
+[aviso] feed 'VentureBeat' falhou: 429 Client Error: Too Many Requests for url: https://venturebeat.com/feed/
+[ciclo] 757 itens coletados, 2 novos
+   melhor nota 6.0 (mínima 4.0): [XDA] I stopped typing to ChatGPT, Claude, and Gemini for a week, and discov
+   melhor nota 4.0 (mínima 4.0): [XDA] The HelixSR mod adds DLSS 3.7 to the Steam Deck and AMD handhelds, and
+[ciclo] limite de rascunhos por hora atingido
